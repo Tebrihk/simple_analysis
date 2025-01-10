@@ -28,3 +28,31 @@ Programming Language: Python
 Libraries:
 Pandas: For data manipulation and analysis.
 Development Environment: Jupyter Notebook
+
+Prerequisites
+Ensure you have the following installed on your system:
+
+Python 3.7 or higher
+Pip (Python package manager)
+Install the required libraries:
+
+# Getting Started
+1.Clone this repository:
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3.Run the Jupyter Notebook:
+
+jupyter notebook notebooks/analysis.ipynb
+
+4. Explore and manipulate the data using the provided scripts or Jupyter Notebook.
+
+
+#   Results
+Key findings from the analysis:
+
+The most popular names over the years.
+Gender-specific trends and patterns in baby naming.
+Long-term trends and shifts in naming conventions.
